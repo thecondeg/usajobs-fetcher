@@ -7,7 +7,7 @@ USAJOBS saved-search emails show only the newest posting and hide the rest behin
 ## How it works
 
 ```
-GitHub Actions (cron, weekdays 10:30 UTC)
+GitHub Actions (cron, weekdays 10:15 UTC)
         │
         ▼
 usajobs_fetch.py ──► USAJOBS Search API (data.usajobs.gov, API key auth)

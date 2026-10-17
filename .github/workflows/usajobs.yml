@@ -2,9 +2,9 @@ name: USAJOBS daily fetch
 
 on:
   schedule:
-    # Weekdays at 10:30 UTC (6:30 AM Eastern in summer, 5:30 AM in winter).
-    # GitHub may start scheduled runs a few minutes late.
-    - cron: "30 10 * * 1-5"
+    # Weekdays at 10:15 UTC (6:15 AM Eastern in summer, 5:15 AM in winter),
+    # well before the 6:46 AM daily digest. GitHub may start scheduled runs late.
+    - cron: "15 10 * * 1-5"
   workflow_dispatch: {}   # adds a "Run workflow" button for manual tests
 
 permissions:
