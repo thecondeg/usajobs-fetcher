@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5   # v5 runs on Node.js 24
       - name: Fetch USAJOBS results and email the full list
         run: python3 usajobs_fetch.py
         env:
