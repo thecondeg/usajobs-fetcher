@@ -1,0 +1,106 @@
+{
+  "LanguageCode": "EN",
+  "SearchResult": {
+    "SearchResultCount": 3,
+    "SearchResultCountAll": 3,
+    "SearchResultItems": [
+      {
+        "MatchedObjectId": "880946700",
+        "MatchedObjectDescriptor": {
+          "PositionID": "880946700",
+          "PositionTitle": "IT Cybersecurity Specialist (PLCYPLN) - CES Recent Graduate",
+          "PositionURI": "https://www.usajobs.gov:443/job/880946700",
+          "PositionLocationDisplay": "Fort Meade, Maryland",
+          "OrganizationName": "Defense Information Systems Agency",
+          "DepartmentName": "Department of Defense",
+          "JobGrade": [
+            {
+              "Code": "GG"
+            }
+          ],
+          "PositionRemuneration": [
+            {
+              "MinimumRange": "57736.0",
+              "MaximumRange": "112000.0",
+              "RateIntervalCode": "PA"
+            }
+          ],
+          "PublicationStartDate": "2026-08-18T00:00:00.0000",
+          "ApplicationCloseDate": "2026-11-18T00:00:00.0000",
+          "UserArea": {
+            "Details": {
+              "LowGrade": "7",
+              "HighGrade": "11"
+            }
+          }
+        }
+      },
+      {
+        "MatchedObjectId": "888107300",
+        "MatchedObjectDescriptor": {
+          "PositionID": "888107300",
+          "PositionTitle": "IT SPECIALIST (SYSADMIN/CUSTSPT)-Direct Hire Authority",
+          "PositionURI": "https://www.usajobs.gov:443/job/888107300",
+          "PositionLocationDisplay": "Edwards AFB, California",
+          "OrganizationName": "Air Force Materiel Command",
+          "DepartmentName": "Department of the Air Force",
+          "JobGrade": [
+            {
+              "Code": "NH"
+            }
+          ],
+          "PositionRemuneration": [
+            {
+              "MinimumRange": "40736.0",
+              "MaximumRange": "92000.0",
+              "RateIntervalCode": "PA"
+            }
+          ],
+          "PublicationStartDate": "2026-10-09T00:00:00.0000",
+          "ApplicationCloseDate": "2026-10-22T00:00:00.0000",
+          "UserArea": {
+            "Details": {
+              "LowGrade": "2",
+              "HighGrade": "2"
+            }
+          }
+        }
+      },
+      {
+        "MatchedObjectId": "889109600",
+        "MatchedObjectDescriptor": {
+          "PositionID": "889109600",
+          "PositionTitle": "Application Support & Development Specialist",
+          "PositionURI": "https://www.usajobs.gov:443/job/889109600",
+          "PositionLocationDisplay": "Washington, District of Columbia",
+          "OrganizationName": "Treasury, Departmental Offices",
+          "DepartmentName": "Department of the Treasury",
+          "JobGrade": [
+            {
+              "Code": "GS"
+            }
+          ],
+          "PositionRemuneration": [
+            {
+              "MinimumRange": "70623.0",
+              "MaximumRange": "111087.0",
+              "RateIntervalCode": "PA"
+            }
+          ],
+          "PublicationStartDate": "2026-10-16T00:00:00.0000",
+          "ApplicationCloseDate": "2026-10-29T00:00:00.0000",
+          "UserArea": {
+            "Details": {
+              "LowGrade": "9",
+              "HighGrade": "11"
+            }
+          }
+        }
+      }
+    ],
+    "UserArea": {
+      "NumberOfPages": "1",
+      "IsRadialSearch": false
+    }
+  }
+}
