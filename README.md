@@ -7,7 +7,7 @@ USAJOBS saved-search emails show only the newest posting and hide the rest behin
 ## How it works
 
 ```
-GitHub Actions (cron, weekdays 10:15 UTC)
+GitHub Actions (cron, weekdays 08:37 UTC)
         │
         ▼
 usajobs_fetch.py ──► USAJOBS Search API (data.usajobs.gov, API key auth)
@@ -48,5 +48,5 @@ python3 usajobs_fetch.py --dry-run                                       # real 
 
 ## Notes
 
-- GitHub can start scheduled runs a few minutes late.
+- GitHub can start scheduled runs late, or skip them when it is busy, so the job runs about two hours before the digest that reads it.
 - In public repos, GitHub pauses scheduled workflows after 60 days with no repository activity; any commit restarts them.
